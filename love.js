@@ -5,9 +5,9 @@ document.getElementById("yes").addEventListener("click", function () {
 // 
 function loveLetter() {
   commnFun2("msg");
-    document.getElementById("msg").innerText = "I LOVE YOU RANUMONDAL...💝 ";
+    document.getElementById("msg").innerText = "I LOVE YOU RANUMONDAL...💝🤣🤣";
 }
 
 function commnFun2(id) {
-  document.getElementById(id).innerText = "I LOVE YOU HEROALOM...💘 ";
+  document.getElementById(id).innerText = "I LOVE YOU HEROALOM...💘🤣🤣 ";
 }
